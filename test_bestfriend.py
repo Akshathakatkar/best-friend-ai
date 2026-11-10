@@ -5,7 +5,7 @@ from peft import PeftModel
 
 
 BASE_MODEL = "Qwen/Qwen2.5-0.5B-Instruct"
-ADAPTER = "./bestfriend-qwen"
+ADAPTER = "Akshathakatkar/best-friend-qwen"
 
 
 # Load tokenizer
